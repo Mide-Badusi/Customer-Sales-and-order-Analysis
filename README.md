@@ -16,17 +16,9 @@ Generate insights that can inform marketing strategies and customer engagement e
 Provide recommendations for improving customer loyalty and increasing average order values.
 Support data-driven decision-making to enhance overall business performance.
 Installation
-To run this project, ensure you have the following installed:
-
-PostgreSQL for database management.
-A SQL client or any preferred data visualization tool for analysis (e.g., Power BI, Tableau).
-Usage
-Clone this repository to your local machine.
-Import the dataset into your PostgreSQL database.
-Run the provided SQL queries to analyze the data and generate insights.
-Visualize the findings using your preferred tool to create reports and presentations.
+To run this 
 Contributions
-Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
+Contributions are welcome! Please feel free suggestions or improvements.
 
 License
 This project is licensed under the MIT License.
